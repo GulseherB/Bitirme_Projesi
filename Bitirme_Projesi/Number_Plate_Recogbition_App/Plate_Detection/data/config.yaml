@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/yolov8/Bitirme_Projesi/Number_Plate_Recogbition_App/Plate_Detection/data/plate_dataset
+
+train: ./images/train
+val: ./images/test
+test: ./images/valid
+
+nc: 1
+names: ['licence_plate']
